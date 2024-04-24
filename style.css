@@ -31,7 +31,6 @@ výchozí (=mobil) - 1 obrázek na řádku (tj. 12 obrázků pod sebou)
 */
 
 .galerie img {
-
   width: 100%;
   padding: 2%;
 }
